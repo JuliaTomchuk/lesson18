@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Country>
+    <name>Usa</name>
+    <capital>Washington</capital>
+    <states>
+        <name>California</name>
+        <capital>Sacramento</capital>
+    </states>
+    <states>
+        <name>Arkansas</name>
+        <capital>Little Rock</capital>
+    </states>
+    <states>
+        <name>Colorado</name>
+        <capital>Denver</capital>
+    </states>
+</Country>
