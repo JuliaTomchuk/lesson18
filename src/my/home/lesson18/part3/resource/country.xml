@@ -3,15 +3,17 @@
     <name>Usa</name>
     <capital>Washington</capital>
     <states>
-        <name>California</name>
-        <capital>Sacramento</capital>
-    </states>
-    <states>
-        <name>Arkansas</name>
-        <capital>Little Rock</capital>
-    </states>
-    <states>
-        <name>Colorado</name>
-        <capital>Denver</capital>
+        <state>
+            <name>California</name>
+            <capital>Sacramento</capital>
+        </state>
+        <state>
+            <name>Arkansas</name>
+            <capital>Little Rock</capital>
+        </state>
+        <state>
+            <name>Colorado</name>
+            <capital>Denver</capital>
+        </state>
     </states>
 </Country>

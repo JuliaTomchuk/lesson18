@@ -12,7 +12,8 @@ public class Country {
     @XmlElement
     private String capital;
 
-@XmlElement
+@XmlElementWrapper(name ="states")
+@XmlElement(name="state")
     private List<State> states;
 
     public Country(String name, List <State> states, String capital) {

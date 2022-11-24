@@ -9,9 +9,9 @@ import java.util.Objects;
 @XmlRootElement(name ="State")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class State {
-    @XmlElement
+@XmlElement
     private String name;
-    @XmlElement
+@XmlElement
     private String capital;
     public State(){}
     public State(String name, String capital){
